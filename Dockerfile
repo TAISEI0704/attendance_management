@@ -1,5 +1,5 @@
 FROM php:fpm
-COPY php.ini /usr/local/etc/php/
+COPY .attendance_manager/php/php.ini /usr/local/etc/php/
 
 # vim install
 RUN apt-get update
