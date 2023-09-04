@@ -2,3 +2,5 @@
 .DS_Store
 .docker/
 .attendance_manager/mysql
+.attendance_manager/mysql/data/ib_logfile0
+.attendance_manager/mysql/data/ibdata1
